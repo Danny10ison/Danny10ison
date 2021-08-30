@@ -1,35 +1,36 @@
 ### Hi there, I'm <a href="#" target="_blank">Daniel Osei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danielkofiosei)
+[![Facebook Badge] (https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039742146428)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Instagram Badge] (https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100039742146428)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danielkofiosei)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TenisonDanny)
 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DannyOse)
+
 <!--
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 -->
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Danny10ison.Danny10ison)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am The Tech Enthusiast
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Danny10ison/Danny10ison/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- I’m currently working on something cool;
+- I’m currently learning Programming with C++ on [W3Scools](https://www.w3schools.com/cpp/default.asp);
+- Ask me about anything, I am happy to help;
+- I regulary write articles on []();
+- How to reach me: pagesngod@gmail.com;
+- [Resume]().
 
 </br>
 
