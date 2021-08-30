@@ -19,6 +19,9 @@ I am The Tech Enthusiast
 ### Tech Stack - Languages and Tools
 
 <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="height" />
+<img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="height" />
+<img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="height" />
+
 
 <img align="right" alt="GIF" src="https://github.com/Danny10ison/Danny10ison/blob/main/coding.gif?raw=true" width="408" height="318" />
   
