@@ -26,7 +26,7 @@ I am The Tech Enthusiast
 **Talking about Personal Stuffs:**
 
 - I’m currently working on something cool
-- I’m currently learning Programming with C++ on [W3Scools](https://www.w3schools.com/cpp/default.asp);
+- I’m currently learning Programming with Kotlin for Android at [iSpaceGH](https://www.ispacegh.com/);
 - Ask me about anything, I am happy to help;
 - I regulary write articles on []();
 - How to reach me: pagesngod@gmail.com;
