@@ -37,7 +37,8 @@ I am The Tech Enthusiast
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin     1 hr 8 mins     ████████████████████████▒   96.70 % 
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 <!--END_SECTION:waka-->
 
