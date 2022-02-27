@@ -37,7 +37,7 @@ I am The Tech Enthusiast
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java       1 hr 16 mins    █████████████████████████   99.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
