@@ -42,8 +42,8 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5fa45774-b153-4ccb-82a9-1a8260f24efc/5200e7fa-8c9a-42b3-b832-2346fa328dc2.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5fa45774-b153-4ccb-82a9-1a8260f24efc/5f2fc9b9-f544-4b4d-85a5-db85a121d374.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5fa45774-b153-4ccb-82a9-1a8260f24efc/5200e7fa-8c9a-42b3-b832-2346fa328dc2.png" width=200px/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5fa45774-b153-4ccb-82a9-1a8260f24efc/5f2fc9b9-f544-4b4d-85a5-db85a121d374.png" width=200px /></a>
 
 <!--END_SECTION:waka-->
 
